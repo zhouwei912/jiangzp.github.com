@@ -8,7 +8,7 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Zhiping Jiang's Git Site
+title : Zhiping Jiang
 tagline: My Technical Blog
 author :
   name : Zhiping Jiang
